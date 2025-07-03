@@ -7,10 +7,10 @@ This application has no ******** mapping for /error, so you are seeing this as a
 
 #EXTM3U
 
-                 <=================== "YOYO TV" =============================>
-  
-
-#EXTINF:-1 tvg-logo="https://l.top4top.io/p_31985tia01.png" group-title="YOYO TV",DISCLAMER
+                <=================== "DIAZ TV" =============================>
+ 
+ 
+#EXTINF:-1 tvg-logo="https://e.top4top.io/p_3471r17va1.png" group-title="DIAZ TV",DISCLAMER
 https://l.top4top.io/m_3372yzsto1.mp4
 
 
