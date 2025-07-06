@@ -11,87 +11,34 @@ This application has no ******** mapping for /error, so you are seeing this as a
  
  
 #EXTINF:-1 tvg-logo=https://i.top4top.io/p_3473ri1l11.png"" group-title="DIAZ TV",DISCLAMER
-[https://l.top4top.io/m_3372yzsto1.mp4](https://c.top4top.io/m_3472vjncz1.mp4)
+https://c.top4top.io/m_3472vjncz1.mp4
 
 
 
 
-                <=================== "CHANNEL | INDONESIA" =============================>
+                <=================== "⭐CHANNEL | INDONESIA⭐" =============================>
  
  
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416",⭐MDTV NET.TV HD⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34321?token=TxBbUEFZGgNDAFxUBVdSCgdXBQVTBVcDWA9WV1MNXVQMCgcGCgRcCFgbFRREQRFcVwtsWFNECwNVBFYHGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDlVQDR4RQVtVGgNDCwgFBAdBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLBwQEVxtL
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png",⭐RCTI ⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34322?token=TxBbUEFZGgNDCwEFUVMGCQdVAgUEUlNUB1VcDg0IVQUACgYBCwgADFgbFRREQRFcVwtsWFNECwNVBFYEGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVFXBh4RQVtVGgNDCAgABw1BFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHUggARB8TVAlEXhVFHRQPGiwlFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAYEVg4CRE4=
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",⭐ TRANS TV ⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34324?token=TxBbUEFZGgNDDQAABgxQCVMHVlRWA1IJVwNWVVYMAFFRBwUGVFNZAFcbFRREQRFcVwtsWFNECwNVBFYCGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVBSAh4RQVtVGgNDCAoOAQNBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHVQ8ERB8TVAlEXhVFHRQPGiwlFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAYGWwgCRE4=
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",⭐TRANS 7⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34325?token=TxBbUEFZGgNDXAxVBQVWWlBeBgZUUVNSWQ9VDgQNVFgNAAQBCgYBC1IbFRREQRFcVwtsWFNECwNVBFYDGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDV1UBB4RQVtVGgNDCAAGBwZBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsIDg4MVBtL
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",⭐MNC TV⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34326?token=TxBbUEFZGgNDD10BBQBQWFUHAgNUVVRSBwcFUlFbV1dWA1UJBgIPXVAbFRREQRFcVwtsWFNECwNVBFYAGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVxVAx4RQVtVGgNDCAAOAA1BFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsIDw8DUBtL
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",⭐ INDOSIAR TV⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34327?token=TxBbUEFZGgNDWFxXA1NRAFVXAlcPVFdVBAYHBgxaAFgFBQVVAwcJAVAbFRREQRFcVwtsWFNECwNVBFYBGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVNXAh4RQVtVGgNDCg0EAAVBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUGVAoFRB8TVAlEXhVFHRQPGiwlFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAUNWgEARE4=
+#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",⭐GTV ⭐
+http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34331?token=TxBbUEFZGgNDClwPVFBXXQZUBQlWUQgIU1FXUFReVlFQVFdVVFcMXAUbFRREQRFcVwtsWFNECwNVBFcHGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDldRDR4RQVtVGgNDCw0FAwNBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAgUHVhtL 
  
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="CHANNEL | INDONESIA",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="CHANNEL | INDONESIA",TRANStv
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="CHANNEL | INDONESIA",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="CHANNEL | INDONESIA", RCTI 🔵
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-https://allcutv.rctiplus.id/rcti2023.m3u8
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://iili.io/JMp3kla.png" group-title="CHANNEL | INDONESIA", MNCTV 🔵
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
- 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="CHANNEL | INDONESIA", GTV 🔵
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-https://allcutv.rctiplus.id/gtv2023.m3u8
-https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="MetroTV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="CHANNEL | INDONESIA", Metro TV 🟢
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="CHANNEL | INDONESIA", iNews 🔵
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="CHANNEL | INDONESIA", Kompas TV 🟢
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="CHANNEL | INDONESIA", MOJI 🟢
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/ 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685758bcfff01776c4ea3520a72/d49166c427c647f0bbbdec08a80aedf5.png" group-title="CHANNEL | INDONESIA",MDTV 🔴
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd 
 
 
                 <==================="CHANNEL | NASIONAL"=============================>
