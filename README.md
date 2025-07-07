@@ -12,7 +12,8 @@ This application has no ******** mapping for /error, so you are seeing this as a
  
 #EXTINF:-1 tvg-logo=https://i.top4top.io/p_3473ri1l11.png"" group-title="DIAZ TV",DISCLAMER
 https://c.top4top.io/m_3472vjncz1.mp4
-
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_34757ib8f1.png" group-title="DIAZ TV",DISCLAMER
+https://d.top4top.io/m_3475gwsau1.mp4
 
 
 
