@@ -18,22 +18,86 @@ https://c.top4top.io/m_3472vjncz1.mp4
 
                 <=================== "⭐CHANNEL | INDONESIA⭐" =============================>
  
- 
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416",⭐MDTV NET.TV HD⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34321?token=TxBbUEFZGgNDAFxUBVdSCgdXBQVTBVcDWA9WV1MNXVQMCgcGCgRcCFgbFRREQRFcVwtsWFNECwNVBFYHGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDlVQDR4RQVtVGgNDCwgFBAdBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLBwQEVxtL
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png",⭐RCTI ⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34322?token=TxBbUEFZGgNDCwEFUVMGCQdVAgUEUlNUB1VcDg0IVQUACgYBCwgADFgbFRREQRFcVwtsWFNECwNVBFYEGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVFXBh4RQVtVGgNDCAgABw1BFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHUggARB8TVAlEXhVFHRQPGiwlFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAYEVg4CRE4=
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",⭐ TRANS TV ⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34324?token=TxBbUEFZGgNDDQAABgxQCVMHVlRWA1IJVwNWVVYMAFFRBwUGVFNZAFcbFRREQRFcVwtsWFNECwNVBFYCGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVBSAh4RQVtVGgNDCAoOAQNBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHVQ8ERB8TVAlEXhVFHRQPGiwlFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAYGWwgCRE4=
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",⭐TRANS 7⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34325?token=TxBbUEFZGgNDXAxVBQVWWlBeBgZUUVNSWQ9VDgQNVFgNAAQBCgYBC1IbFRREQRFcVwtsWFNECwNVBFYDGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDV1UBB4RQVtVGgNDCAAGBwZBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsIDg4MVBtL
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",⭐MNC TV⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34326?token=TxBbUEFZGgNDD10BBQBQWFUHAgNUVVRSBwcFUlFbV1dWA1UJBgIPXVAbFRREQRFcVwtsWFNECwNVBFYAGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVxVAx4RQVtVGgNDCAAOAA1BFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsIDw8DUBtL
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",⭐ INDOSIAR TV⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34327?token=TxBbUEFZGgNDWFxXA1NRAFVXAlcPVFdVBAYHBgxaAFgFBQVVAwcJAVAbFRREQRFcVwtsWFNECwNVBFYBGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDVNXAh4RQVtVGgNDCg0EAAVBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUGVAoFRB8TVAlEXhVFHRQPGiwlFh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAUNWgEARE4=
-#EXTINF:-1 group-title="⭐CHANNEL | INDONESIA⭐" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",⭐GTV ⭐
-http://31.43.191.155:8080/VIP0166173590117097/11735901170761/34331?token=TxBbUEFZGgNDClwPVFBXXQZUBQlWUQgIU1FXUFReVlFQVFdVVFcMXAUbFRREQRFcVwtsWFNECwNVBFcHGRoQElFAbFhWEwIbUg0MAwcMQRUUElpcUkQLAVYDXQENDldRDR4RQVtVGgNDCw0FAwNBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDFlAD1UaRFBeQghFQhgVXhR8fEdNFldLRVdfS1AOVxsMFUEQGxpEWkJoFFRDFUUBV1hdF0MOEAMTHhNVWBlmWllZWwZaQg9cX0RECxJQFUgUWFcLCEBdQW5CWFwbWxsLAgUHVhtL 
- 
+ #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="⭐CHANNEL | INDONESIA⭐", RCTI 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="⭐CHANNEL | INDONESIA⭐", GTV 
+https://allcutv.rctiplus.id/gtv2023.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="⭐CHANNEL | INDONESIA⭐",TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⭐CHANNEL | INDONESIA⭐",TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",Kompas Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",INews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",MAGNA CHANEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",ELSHINTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",Mekkah Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",Madinah  Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",TV9 NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 
