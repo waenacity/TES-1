@@ -22,8 +22,11 @@ https://c.top4top.io/m_3472vjncz1.mp4
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="⭐CHANNEL | INDONESIA⭐", RCTI 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://iili.io/JMp36xI.png" group-title="⭐CHANNEL | INDONESIA⭐", RCTI 1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="⭐CHANNEL | INDONESIA⭐",RCTI 2
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:0 tvg-id="outdoor" group-title="⭐CHANNEL | INDONESIA⭐",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
