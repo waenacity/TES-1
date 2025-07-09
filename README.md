@@ -682,6 +682,11 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
  
                    <================ "Knowledge & Documentary" ==========================>
  
+
+#EXTINF:-1 group-title="Knowledge & Documentary",Nat_Geo_Wild
+https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 ,group-title="Knowledge & Documentary"National_Geographic
+https://fl5.moveonjoy.com/National_Geographic/index.m3u8
  
 #EXTINF:-1 tvg-id="BBC Earth HD"tvg-logo="https://iili.io/JmoCwfS.png" group-title="Knowledge & Documentary",BBC Earth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
@@ -937,7 +942,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
- 
+
+#EXTINF:-1 group-title="KIDS",Unknown_357
+https://fl1.moveonjoy.com/HBO/index.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
